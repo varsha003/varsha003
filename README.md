@@ -52,10 +52,6 @@ Languages and Tools
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-varsha003&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
 
                                                                                                                                   
 
