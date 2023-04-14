@@ -17,7 +17,14 @@ Looking forward to adapt and learn from training in the new environment, also me
 
 - 📫 How to reach me
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/varsha-k-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   <a href="varshakrishna003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 TECHNICAL SKILLS
 📌 Statistics : Descriptive Statistics / EDA, Inferential Statistics, Hypothesis Testing
