@@ -37,6 +37,7 @@ Languages and Tools
 
   <div id="badges">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange" alt="Jypyter Badge"/>
 </div>
 
 
@@ -45,15 +46,3 @@ Languages and Tools
 
 
 
-<!--
-**varsha003/varsha003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on data science project
-- 🌱 I’m currently learning 
-
-
-![python](https://user-images.githubusercontent.com/75262617/232134548-95209834-f0a3-438d-9617-a7bec2421f0d.svg)
-
--->
