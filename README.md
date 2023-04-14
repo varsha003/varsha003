@@ -1,7 +1,7 @@
 
 
  <h1>
- # hey there
+ hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Varsha </h1>
 
@@ -14,7 +14,7 @@
 Very interested in learning new stuff and research further to unknown information. 
 Looking forward to adapt and learn from training in the new environment, also meeting new friends and to work together with them as a team.
 
-- 🔭 I’m currently interested working ML,NLP,DL 
+- 🔭 I’m currently interested working in ML,NLP,DL 
 - 🌱 I’m currently learning deploying the project in cloud.
 
 
