@@ -1,6 +1,9 @@
 
 
-# Hi there 👋 I'm Varsha 
+# <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ I'm Varsha </h1>
 
 ### Motivated Data Scientist 
 
@@ -45,6 +48,8 @@ Languages and Tools
  <div id="badges">
 <img src="https://komarev.com/ghpvc/?username=varsha003&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 
 
 
