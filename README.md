@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Varsha 
 
-# varsha
 
-#Motivated Data Scientist 
+# Hi there 👋 I'm Varsha 
+
+### Motivated Data Scientist 
 
 Very interested in learning new stuff and research further to unknown information. 
 Looking forward to adapt and learn from training in the new environment, also meeting new friends and to work together with them as a team.
@@ -10,6 +10,7 @@ Looking forward to adapt and learn from training in the new environment, also me
 
 - 📫 How to reach me: varshakrishna003@gmail.com
 
+![python](https://user-images.githubusercontent.com/75262617/232134548-95209834-f0a3-438d-9617-a7bec2421f0d.svg)
 
 
 TECHNICAL SKILLS
