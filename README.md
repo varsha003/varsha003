@@ -38,11 +38,16 @@ Languages and Tools
   <div id="badges">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange" alt="Jypyter Badge"/>
+  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL&logoColor=blue" alt="SQL Badge"/>
+   <img src="https://img.shields.io/badge/Anaconda-green?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Anaconda Badge"/>
+ 
+</div>
+ <div id="badges">
+<img src="https://komarev.com/ghpvc/?username=varsha003&style=flat-square&color=blue" alt=""/>
 </div>
 
 
 
 
-
-
+                                                                                                                                  
 
