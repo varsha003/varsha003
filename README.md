@@ -1,7 +1,7 @@
 
 
-# <h1>
-  hey there
+ <h1>
+ # hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Varsha </h1>
 
@@ -30,6 +30,8 @@ Looking forward to adapt and learn from training in the new environment, also me
 </div>
 
 
+
+
 TECHNICAL SKILLS
 📌 Statistics : Descriptive Statistics / EDA, Inferential Statistics, Hypothesis Testing
 📌 Machine Learning : Tree based model(Decision Tree, Random Forest), Regression Algorithm, K-Means Clustering, Probabilistic Models(Logistic Regression, Naive Bayes Classifier), Support Vector Machines(SVMs), K-Nearest Neighbours Classifier(KNN), PCA (Dimension Reduction)
@@ -50,6 +52,7 @@ Languages and Tools
 </div>
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-varsha003&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
