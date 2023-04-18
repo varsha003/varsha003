@@ -32,6 +32,7 @@ Looking forward to adapt and learn from training in the new environment, also me
 
 
 
+
 TECHNICAL SKILLS
 
 📌 Statistics : Descriptive Statistics / EDA, Inferential Statistics, Hypothesis Testing
