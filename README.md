@@ -12,7 +12,9 @@
 </div>
 
 Very interested in learning new stuff and research further to unknown information. 
-Looking forward to adapt and learn from training in the new environment, also meeting new friends and to work together with them as a team.
+Looking forward to adapt and learn from training in the new environment, also meeting new friends and to work together with them as a team. I have total 4 years of work experience and my past employer was Tata Consultancy Service
+
+My passion for data science and machine learning led me to transition my career into this field. I have been developing my skills and expertise through online courses, workshops, hands-on projects and completed internship in INeuron. I have experience in developing predictive models, clustering techniques, natural language processing, and deep learning algorithms.
 
 
 - 🔭 I’m currently interested working in ML,NLP,DL 
