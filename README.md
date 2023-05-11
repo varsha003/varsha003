@@ -14,6 +14,8 @@
 Very interested in learning new stuff and research further to unknown information. 
 Looking forward to adapt and learn from training in the new environment, also meeting new friends and to work together with them as a team.
 
+Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
+
 - 🔭 I’m currently interested working in ML,NLP,DL 
 - 🌱 I’m currently learning deploying the project in cloud.
 
