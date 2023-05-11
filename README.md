@@ -45,6 +45,20 @@ TECHNICAL SKILLS
 
 Languages and Tools 
 
+<h4 align="left">ML/DL:</h4>
+<p align="left">
+<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank"> <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/> </a>
+ <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+   <a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="pyspark" width="40" height="40"/> </a>
+  <a href="https://www.nltk.org/" target="_blank"> <img src="https://miro.medium.com/max/1184/0*zKRz1UgqpOZ4bvuA" alt="nltk" width="40" height="40"/> </a>
+<a href="https://www.scipy.org/" target="_blank"> <img src="https://www.fullstackpython.com/img/logos/scipy.png" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+
+
   <div id="badges">
     <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange" alt="Jypyter Badge"/>
